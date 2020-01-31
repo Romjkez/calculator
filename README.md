@@ -1,5 +1,8 @@
 # calculator
-Simple calculator written in Kotlin
+Simple calculator developed with Kotlin
 
-
-Made by Roman Meshkov
+## Main features
+- Sum numbers
+- Subtraction of numbers
+- Multiply numbers
+- Divide numbers
